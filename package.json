@@ -1,7 +1,6 @@
 {
-  "name": "test-button-package",
-  "version": "0.1.0",
-  "private": false,
+  "name": "mghz-test-button-package",
+  "version": "1.0.0",
   "babel": {
     "presets": [
       "@babel/preset-react"
