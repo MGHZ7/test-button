@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import { Button } from './components/button/Button';
+import { Button } from './component/button/Button';
 
 function App() {
   return (
